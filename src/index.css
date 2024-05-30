@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    
+    font-family: Zilla;
+    src: url('./fonts/ZillaSlab-Regular.ttf');
+  }
+  html{
+    font-family:"Zilla";
+  }
+  html{
+    padding: 0;
+  }
